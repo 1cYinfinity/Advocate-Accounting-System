@@ -1,4 +1,4 @@
-# Advocate-Accounting-Sytem
+# Advocate-Accounting-System
 
 ~ Overview: </br>
 
