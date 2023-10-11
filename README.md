@@ -28,9 +28,10 @@ This project is licensed under the MIT License.</br>
 
 Author:</br>
 
-Prince Barai{infinity}
-
-
+Prince Barai {infinity}
+</br>
+</br>
+</br>
 
 ~ How to run ? </br>
 python3 AdvAccSys.py
